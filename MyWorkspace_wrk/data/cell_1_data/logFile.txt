@@ -1,0 +1,12 @@
+
+hpeesofsim (*) 470.shp Oct 16 2017, MINT version 4
+    (64-bit windows built: Tue Oct 17, 2017 04:23:43 +0000)
+Copyright 1989 - 2017 Keysight Technologies.
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     0.54 seconds.
+

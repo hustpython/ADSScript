@@ -1,0 +1,86 @@
+Simulation Messages
+
+
+Status / Summary
+
+
+hpeesofsim (*) 470.shp Oct 16 2017, MINT version 4
+    (64-bit windows built: Tue Oct 17, 2017 04:23:43 +0000)
+Copyright 1989 - 2017 Keysight Technologies.
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+Resource usage:
+  Total stopwatch time     =     7.22 seconds.
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
+
+SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(1 GHz->10 GHz)
+
+-------------------------------------------------------------------------------
+Simulation finished: dataset `cell_1' written in:
+  `E:\ADSdata\MyWorkspace_wrk/data'
+-------------------------------------------------------------------------------
+
